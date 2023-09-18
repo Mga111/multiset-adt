@@ -27,5 +27,4 @@ public abstract class MultiSet {
     public int size() {
         throw new UnsupportedOperationException("Not Implemented");
     }
-    }
 }
